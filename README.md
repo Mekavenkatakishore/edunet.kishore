@@ -34,7 +34,7 @@ ___
 
 1️⃣ **Clone the Repository**
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Mekavenkatakishore/edunet.kishore.git
 
 cd your-repo-name
 
@@ -98,4 +98,4 @@ ____
 
 ✨ **Contributors**
 
-👤 Your Name – GitHub Profile
+👤 Your Name – Mekavenkatakishore
